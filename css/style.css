@@ -1,0 +1,118 @@
+.mainDiv{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+.mainButton  ,  .Visit  , .Delete  {
+    background-color: #1167C4;
+    color: white;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.mainButton:hover    ,   .Visit:hover   ,  .Delete:hover {
+    box-shadow: 5px 5px  gray;
+    background-color: #0A3F77;
+
+}
+
+
+a:hover{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+
+h1{
+    color: #AAAAAA;
+    font-size: 2rem;
+}
+
+.footer{
+    color: #AAAAAA;
+}
+
+#SiteName , #SiteURL{
+    border: 0.5px solid white;
+
+}
+
+#SiteName:hover , #SiteURL:hover{
+border-color:rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.hint1 , .hint2{
+    background-color: #FFB2B2;
+    padding: 0.4rem;
+    border: solid 1px rgb(109, 0, 0);
+    font-weight: 700;
+    
+}
+
+
+
+
+.Visit{
+
+}
+
+.Visit:hover{
+    
+}
+
+
+.Delete{
+    background-color: #910004;
+
+}
+
+
+.Delete:hover{
+    background-color: #510D0E;
+
+}
+
+
+
+.siteName{
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: inline;
+    
+}
+
+
+
+.myRow{
+    width: 50%;
+}
+
+
+.outterRow{
+    background: linear-gradient(#F0F0F0 , #fff);
+    padding: 1.2rem;
+}
+
